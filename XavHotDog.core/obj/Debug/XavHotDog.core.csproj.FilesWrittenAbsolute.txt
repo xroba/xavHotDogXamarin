@@ -1,0 +1,5 @@
+/Users/xavierroba/Projects/XavHotDog/XavHotDog.core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/xavierroba/Projects/XavHotDog/XavHotDog.core/bin/Debug/XavHotDog.core.dll.mdb
+/Users/xavierroba/Projects/XavHotDog/XavHotDog.core/bin/Debug/XavHotDog.core.dll
+/Users/xavierroba/Projects/XavHotDog/XavHotDog.core/obj/Debug/XavHotDog.core.dll
+/Users/xavierroba/Projects/XavHotDog/XavHotDog.core/obj/Debug/XavHotDog.core.dll.mdb

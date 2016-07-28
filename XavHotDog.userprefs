@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="XavHotDog/XavHotDog.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XavHotDog/MainActivity.cs">
+    <Files>
+      <File FileName="XavHotDog/MainActivity.cs" Line="23" Column="1" />
+      <File FileName="XavHotDog/packages.config" Line="1" Column="1" />
+      <File FileName="XavHotDog/XavHotDogDetailActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XavHotDog AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+</Properties>
