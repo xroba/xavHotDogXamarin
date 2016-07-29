@@ -1,0 +1,5 @@
+C:\projets\xavHotDogXamarin\XavHotDog.core\bin\Debug\XavHotDog.core.dll
+C:\projets\xavHotDogXamarin\XavHotDog.core\bin\Debug\XavHotDog.core.pdb
+C:\projets\xavHotDogXamarin\XavHotDog.core\obj\Debug\XavHotDog.core.csprojResolveAssemblyReference.cache
+C:\projets\xavHotDogXamarin\XavHotDog.core\obj\Debug\XavHotDog.core.dll
+C:\projets\xavHotDogXamarin\XavHotDog.core\obj\Debug\XavHotDog.core.pdb
