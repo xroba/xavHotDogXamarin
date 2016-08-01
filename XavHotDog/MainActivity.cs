@@ -5,7 +5,7 @@ using Android.Views;
 
 namespace XavHotDog
 {
-	[Activity(Label = "XavHotDog", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity(Label = "XavHotDog", MainLauncher = false, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
 		int count = 1;
